@@ -9,4 +9,4 @@ This is so simple image file server that serves an image randomly.
 1. access [http://localhost:9811/rand-image](http://localhost:9811/rand-image)
 
 ## How to turn off
-1. run `% make autod` (autod means **auto up**)
+1. run `% make autod` (autod means **auto down**)
